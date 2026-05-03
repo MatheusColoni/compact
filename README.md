@@ -1,6 +1,6 @@
 # Compact
 
-Projeto de controle de hardware de uma loje de técnologia:
+Projeto de controle de hardware de uma loja de técnologia:
 
 O usuário pode verificar a quantidade de cada hardware por meio de gráficos
 
