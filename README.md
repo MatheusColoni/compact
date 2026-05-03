@@ -1,16 +1,7 @@
-# compact
+# Compact
 
-A new Flutter project.
+Projeto de controle de hardware de uma loje de técnologia:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O usuário pode verificar a quantidade de cada hardware por meio de gráficos
+Adicionar novos produtos ao estoque
+Verificar quais produtos ele possui
